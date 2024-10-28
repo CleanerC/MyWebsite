@@ -103,7 +103,7 @@ export default function contact() {
                              text-gray-900 dark:text-gray-100
                              focus:ring-2 focus:ring-blue-500 focus:border-transparent
                              transition-colors"
-                  placeholder="Your message..."
+                  placeholder="I does not have back end. So, this is not functional"
                 />
               </div>
     
