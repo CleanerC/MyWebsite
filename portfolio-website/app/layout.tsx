@@ -1,5 +1,5 @@
-import type { Metadata } from "next";
-import localFont from "next/font/local";
+// import type { Metadata } from "next";
+// import localFont from "next/font/local";
 import { ReactNode } from "react";
 import "./globals.css";
 import ThemeSwitch from "@/components/ThemeSwitch";

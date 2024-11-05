@@ -1,5 +1,5 @@
 import BackToHome from "@/components/backhome";
-import { Mail, Phone, MapPin, Github, Linkedin, Twitter } from 'lucide-react'
+import { Mail, Phone, MapPin, Github, Linkedin} from 'lucide-react'
 
 export default function contact() {
     return (
@@ -9,7 +9,7 @@ export default function contact() {
           <div className="text-center max-w-2xl mx-auto mt-12 mb-16">
             <h2 className="text-4xl font-bold mb-4">Contact Me</h2>
             <p className="text-gray-600 dark:text-gray-400">
-              Feel free to reach out! I'm always open to discussing new projects and opportunities.
+              Feel free to reach out! I am always open to discussing new projects and opportunities.
             </p>
           </div>
     

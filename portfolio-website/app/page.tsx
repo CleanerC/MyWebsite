@@ -14,7 +14,7 @@ export default function Home() {
 
       <section className="max-w-4xl mx-auto text-center">
         <h2 className="text-5xl font-bold mb-6">
-          I'm David 👋
+          I am David 👋
         </h2>
         <p className="text-xl mb-8">
           Boston University Computer Engineering class of 2026
